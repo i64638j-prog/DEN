@@ -1,0 +1,32 @@
+[
+    {
+        "login": "octocat",
+        "name": "The Octocat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=4",
+        "html_url": "https://github.com/octocat",
+        "company": "@github",
+        "location": "San Francisco",
+        "public_repos": 8,
+        "followers": 5000
+    },
+    {
+        "login": "torvalds",
+        "name": "Linus Torvalds",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4",
+        "html_url": "https://github.com/torvalds",
+        "company": "Linux Foundation",
+        "location": "Portland, OR",
+        "public_repos": 6,
+        "followers": 200000
+    },
+    {
+        "login": "gaearon",
+        "name": "Dan Abramov",
+        "avatar_url": "https://avatars.githubusercontent.com/u/810438?v=4",
+        "html_url": "https://github.com/gaearon",
+        "company": "@facebook",
+        "location": "London, UK",
+        "public_repos": 150,
+        "followers": 80000
+    }
+]
